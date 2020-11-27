@@ -1,0 +1,11 @@
+C:\Users\dev\Desktop\C# DEV tarde\bin\Debug\netcoreapp3.1\C# DEV tarde.exe
+C:\Users\dev\Desktop\C# DEV tarde\bin\Debug\netcoreapp3.1\C# DEV tarde.deps.json
+C:\Users\dev\Desktop\C# DEV tarde\bin\Debug\netcoreapp3.1\C# DEV tarde.runtimeconfig.json
+C:\Users\dev\Desktop\C# DEV tarde\bin\Debug\netcoreapp3.1\C# DEV tarde.runtimeconfig.dev.json
+C:\Users\dev\Desktop\C# DEV tarde\bin\Debug\netcoreapp3.1\C# DEV tarde.dll
+C:\Users\dev\Desktop\C# DEV tarde\bin\Debug\netcoreapp3.1\C# DEV tarde.pdb
+C:\Users\dev\Desktop\C# DEV tarde\obj\Debug\netcoreapp3.1\C# DEV tarde.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\C# DEV tarde\obj\Debug\netcoreapp3.1\C# DEV tarde.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\C# DEV tarde\obj\Debug\netcoreapp3.1\C# DEV tarde.AssemblyInfo.cs
+C:\Users\dev\Desktop\C# DEV tarde\obj\Debug\netcoreapp3.1\C# DEV tarde.dll
+C:\Users\dev\Desktop\C# DEV tarde\obj\Debug\netcoreapp3.1\C# DEV tarde.pdb
